@@ -1,0 +1,13 @@
+{
+    "name": "qqmusic-cli",
+    "dependencies": [
+        {
+            "name": "argparse",
+            "version>=": "3.0"
+        },
+        {
+            "name": "ftxui",
+            "version>=": "5.0.0"
+        }
+    ]
+}

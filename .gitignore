@@ -1,0 +1,29 @@
+# build directory
+build/
+
+# compile production
+*.o
+*.obj
+
+# static libs
+*.a
+*.lib
+
+# shared libs
+*.so
+*.dll
+
+# executeable files
+*.exe
+
+# vscode configure directory
+.vscode/
+
+# clangd cache
+.cache
+
+# logs
+*.log
+
+# vcpkg installation directory
+tools/
