@@ -5,8 +5,7 @@ if not exist .\tools\bootstrap-vcpkg.bat (
     echo "vcpkg installing..."
     echo "downloading source files..."
     git clone https://github.com/microsoft/vcpkg.git ./tools/
-)
-else (
+) else (
     cd tools
     git pull
     cd ..
