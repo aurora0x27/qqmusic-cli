@@ -42,7 +42,7 @@ clone this repository `git clone --recursive https://www.github.com/aurora0x27/q
 
 ## 5. More about this project
 
-The inspiration of the project come from the project [musicfox](https://github.com/go-musicfox/go-musicfox), and [spotify-tui](https://github.com/Rigellute/spotify-tui)
+The inspiration of the project came from the project [musicfox](https://github.com/go-musicfox/go-musicfox), and [spotify-tui](https://github.com/Rigellute/spotify-tui)
 
 Using libraries:
 
@@ -56,4 +56,4 @@ The QQMusic API is in another repository [qqmusic-api-cxx](https://www.github.co
 
 ## 6. Contributors and Acknowledgements
 
-Main contributors are [清风之恋](https://www.github.com/aurora0x27) and [kingpoem](https://www.github.com/kingpoem)
+Main contributors are [清风之恋](https://www.github.com/aurora0x27) and [kingpoem](https://www.github.com/kingpoem), thanks to [白井黑子]() for his contribution of doing test on MacOS.
