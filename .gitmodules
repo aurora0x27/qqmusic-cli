@@ -1,0 +1,3 @@
+[submodule "src/qqmusic-api"]
+	path = src/qqmusic-api
+	url = https://github.com/aurora0x27/qqmusic-api-cxx
