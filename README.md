@@ -2,6 +2,12 @@
 
 English | [简体中文](doc/README_cn.md)
 
+> Notice
+>
+> This is a programming practise project of a group of college students.
+>
+> This programme will not be used for commercial purpose.
+
 ## 1. Introduction
 
 QQMusic for console is a qqmusic client based on TUI(Text User Interface).
